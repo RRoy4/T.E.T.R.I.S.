@@ -21,6 +21,3 @@
 ## Documentation
 - Document everything: design decisions, component choices, simulation setups
 - Document rejected ideas too along with their reasoning and keep your git branch updated with your resources
-| ROS simulations (manual control, swarm) | TBD | End of week 1 |
-| Component shortlist | TBD | TBD |
-| Docking mechanism research | TBD | TBD |
