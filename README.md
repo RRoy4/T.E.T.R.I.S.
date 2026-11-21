@@ -49,3 +49,10 @@
 * Record rejected ideas and the reasoning behind them.
 
 * Keep the Git repository and relevant branches updated and organized. along with their reasoning and keep your git branch updated with your resources
+
+
+### Task Allocation
+
+* Component Selection - Raunak, Diya, Gaurilakshmi
+
+* Docking and undocking mechanism - Sachin, Yash, Khushi
