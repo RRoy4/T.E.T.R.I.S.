@@ -20,6 +20,6 @@
 - Either adapt a design from a research paper or design our own
 - Review papers first, then decide
 
-## Documentation
+### Documentation
 - Document everything: design decisions, component choices, simulation setups
 - Document rejected ideas too along with their reasoning and keep your git branch updated with your resources
