@@ -1,0 +1,19 @@
+Components,Purpose
+N20 6V 100 RPM geared motor with encoder,Drive the wheels and measure rotation for odometry.
+MG996R metal-gear servo ,Rotate the top and bottom docking faces independently.
+DS3115 15 kg.cm digital servo ,Tilt a connected module; load capacity will be checked in CAD.
+SG90 servo (provisional), Actuate the docking mechanism; the final design may require different hardware.
+ESP32 development board ,"Control motors, read sensors and communicate over Wi-Fi."
+DRV8833 dual motor driver, Control the speed and direction of both wheel motors.
+MPU6050 IMU, Measure rotation and tilt for position estimation.
+7.4 V 2000 mAh 2S battery pack,Supply power to the module.
+2S 10 A BMS ,Protect the battery during operation.
+5 V buck regulator, Provide regulated power to the controller and logic.
+625ZZ bearing pack, Support rotating joints and reduce load on servo shafts.
+Mechanical fixings ,"Assemble the chassis, bearings, motor mounts and docking brackets."
+Perfboard ,Mount and connect electronic components.
+Docking contact switches, Detect contact during docking.
+Docking magnets and guide pins,Guide and align the docking faces.
+"Joint pivot shafts, collars and servo horns",Support pivot axes and connect servos to moving faces.
+"Wire, plugs, switch and fuse", Connect and protect the electrical system.
+PETG filament," Print the chassis, wheel discs, hubs, joint brackets and docking faces."
